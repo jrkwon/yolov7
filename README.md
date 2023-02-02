@@ -159,7 +159,7 @@ coco_kpts
 ### Pretrained modes for a person detector
 
 ```shell
-wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-person.pt weights/yolov7-w6-person.pt
+wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-person.pt -O weights/yolov7-w6-person.pt
 ```
 
 ## Train
