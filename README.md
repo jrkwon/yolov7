@@ -99,6 +99,9 @@ wget http://images.cocodataset.org/zips/test2017.zip
 unzip test2017.zip -d coco/images
 ```
 
+Download `![person_keypoints_val2017.json](https://drive.google.com/file/d/1nxs-w44m_V4XND0r3sho67XLeCdBNmtZ/view?usp=share_link)`
+Move the json file to `coco/annotations/`.
+
 ### `coco_kpts` directory prep
 
 ```shell
